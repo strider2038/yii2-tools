@@ -1,0 +1,21 @@
+{
+    "name": "strider2038/yii2-tools",
+    "description": "Useful tools for creating projects based on Yii2 framework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "strider2038",
+            "email": "strider2038@rambler.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "strider2038\\tools\\": ""
+        }
+    }
+}
